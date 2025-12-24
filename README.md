@@ -4,6 +4,24 @@
 
 From the metallic precision of **Mando Steel** to the deep, velvet darkness of **Empire Gray**, there is a theme for every ally in the galaxy.
 
+## Preview
+
+### Light Themes
+
+| Mando Steel | Clone White | Padmé Rose |
+|-------------|-------------|------------|
+| ![Mando Steel](./images/Mando.png) | ![Clone White](./images/Clone.png) | ![Padmé Rose](./images/Padme.png) |
+
+| Kenobi Blue | Yoda Green | Jedi Light | Rebel Orange |
+|-------------|------------|------------|--------------|
+| ![Kenobi Blue](./images/Kenobi.png) | ![Yoda Green](./images/Yoda.png) | ![Jedi Light](./images/Jedi.png) | ![Rebel Orange](./images/Rebel.png) |
+
+### Dark Themes
+
+| Empire Charcoal | Falcon Gray | Sith Dark |
+|-----------------|-------------|-----------|
+| ![Empire Charcoal](./images/Empire.png) | ![Falcon Gray](./images/Falcon.png) | ![Sith Dark](./images/Sith.png) |
+
 ## Themes Included
 
 ### Light Themes
