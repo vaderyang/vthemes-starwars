@@ -50,13 +50,15 @@ From the metallic precision of **Mando Steel** to the deep, velvet darkness of *
 
 ## Installation
 
+
 1.  Open **VS Code**.
 2.  Go to **Extensions** (Cmd+Shift+X).
-3.  Search for **VTheme Star Wars Pack** (once published) OR install the `.vsix` manually.
+3.  Search for **VTheme Star Wars Pack** (once published, currently not ready) OR install the `.vsix` manually (Download the vsix file in release first).
 4.  Click **Install**.
+![Installation Guide](./images/screenshots%20to%20install.png)
+
 5.  Press `Cmd+K` then `Cmd+T` to select your theme!
 
-![Installation Guide](./images/screenshots%20to%20install.png)
 
 ## License
 
