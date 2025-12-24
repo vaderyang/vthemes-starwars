@@ -1,0 +1,39 @@
+{
+    "name": "VTheme Clone White",
+    "type": "light",
+    "colors": {
+        "editor.background": "#ffffff",
+        "editor.foreground": "#1a1a1a",
+        "sideBar.background": "#f5f5f5",
+        "sideBar.foreground": "#1a1a1a",
+        "activityBar.background": "#222222",
+        "activityBar.foreground": "#ffffff",
+        "statusBar.background": "#000000",
+        "statusBar.foreground": "#ffffff",
+        "button.background": "#333333",
+        "button.foreground": "#ffffff",
+        "input.background": "#ffffff",
+        "input.border": "#e5e5e5"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#888888"
+            }
+        },
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#000000",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#555555"
+            }
+        }
+    ]
+}

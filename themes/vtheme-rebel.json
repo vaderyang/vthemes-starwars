@@ -1,0 +1,49 @@
+{
+    "name": "VTheme Rebel Orange",
+    "type": "light",
+    "colors": {
+        "editor.background": "#fffbf7",
+        "editor.foreground": "#3e2723",
+        "sideBar.background": "#fff3e0",
+        "sideBar.foreground": "#3e2723",
+        "activityBar.background": "#ff9800",
+        "activityBar.foreground": "#ffffff",
+        "activityBarBadge.background": "#ef6c00",
+        "activityBarBadge.foreground": "#ffffff",
+        "statusBar.background": "#ef6c00",
+        "statusBar.foreground": "#ffffff",
+        "button.background": "#ff5722",
+        "button.foreground": "#ffffff",
+        "input.background": "#ffffff",
+        "input.border": "#ffcc80",
+        "editorCursor.foreground": "#ff5722",
+        "tab.activeBorder": "#ff5722"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#a1887f"
+            }
+        },
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#e65100",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#ef6c00"
+            }
+        },
+        {
+            "scope": "function",
+            "settings": {
+                "foreground": "#bf360c"
+            }
+        }
+    ]
+}

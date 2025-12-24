@@ -1,0 +1,50 @@
+{
+    "name": "VTheme Yoda Green",
+    "type": "light",
+    "colors": {
+        "editor.background": "#f2f8f2",
+        "editor.foreground": "#2e402e",
+        "sideBar.background": "#e6f0e6",
+        "sideBar.foreground": "#2e402e",
+        "activityBar.background": "#4caf50",
+        "activityBar.foreground": "#ffffff",
+        "activityBarBadge.background": "#8bc34a",
+        "activityBarBadge.foreground": "#ffffff",
+        "statusBar.background": "#388e3c",
+        "statusBar.foreground": "#ffffff",
+        "button.background": "#4caf50",
+        "button.foreground": "#ffffff",
+        "input.background": "#ffffff",
+        "input.border": "#a5d6a7",
+        "editorCursor.foreground": "#2e7d32",
+        "tab.activeBorder": "#4caf50"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#689f38",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#2e7d32",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#558b2f"
+            }
+        },
+        {
+            "scope": "function",
+            "settings": {
+                "foreground": "#33691e"
+            }
+        }
+    ]
+}

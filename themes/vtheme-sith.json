@@ -1,0 +1,58 @@
+{
+    "name": "VTheme Sith Dark",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#1a0505",
+        "editor.foreground": "#e0e0e0",
+        "sideBar.background": "#140303",
+        "sideBar.foreground": "#cccccc",
+        "activityBar.background": "#2b0a0a",
+        "activityBar.foreground": "#ff4d4d",
+        "activityBarBadge.background": "#ff0000",
+        "activityBarBadge.foreground": "#ffffff",
+        "statusBar.background": "#800000",
+        "statusBar.foreground": "#ffffff",
+        "button.background": "#b30000",
+        "button.foreground": "#ffffff",
+        "input.background": "#2e0a0a",
+        "input.foreground": "#ffffff",
+        "input.border": "#800000",
+        "editorCursor.foreground": "#ff0000",
+        "tab.activeBorder": "#ff0000",
+        "titleBar.activeBackground": "#2b0a0a"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#804040",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#ff4d4d",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#ff9999"
+            }
+        },
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#ffffff"
+            }
+        },
+        {
+            "scope": "function",
+            "settings": {
+                "foreground": "#ff6666"
+            }
+        }
+    ]
+}

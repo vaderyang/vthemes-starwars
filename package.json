@@ -1,0 +1,71 @@
+{
+    "name": "vtheme-starwars",
+    "displayName": "VSCode Theme Pack inspired by Star Wars",
+    "description": "Star Wars inspired themes for VS Code: Mando, Empire, Clone, Sith, Jedi, and more.",
+    "version": "1.0.0",
+    "publisher": "Vader Yang",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vaderyang/vthemes-starwars"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VTheme Mando Steel",
+                "uiTheme": "vs",
+                "path": "./themes/vtheme-mando.json"
+            },
+            {
+                "label": "VTheme Empire Charcoal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vtheme-empire.json"
+            },
+            {
+                "label": "VTheme Clone White",
+                "uiTheme": "vs",
+                "path": "./themes/vtheme-clone.json"
+            },
+            {
+                "label": "VTheme Padmé Rose",
+                "uiTheme": "vs",
+                "path": "./themes/vtheme-padme.json"
+            },
+            {
+                "label": "VTheme Kenobi Blue",
+                "uiTheme": "vs",
+                "path": "./themes/vtheme-kenobi.json"
+            },
+            {
+                "label": "VTheme Yoda Green",
+                "uiTheme": "vs",
+                "path": "./themes/vtheme-yoda.json"
+            },
+            {
+                "label": "VTheme Sith Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vtheme-sith.json"
+            },
+            {
+                "label": "VTheme Jedi Light",
+                "uiTheme": "vs",
+                "path": "./themes/vtheme-jedi.json"
+            },
+            {
+                "label": "VTheme Rebel Orange",
+                "uiTheme": "vs",
+                "path": "./themes/vtheme-rebel.json"
+            },
+            {
+                "label": "VTheme Falcon Gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vtheme-falcon.json"
+            }
+        ]
+    }
+}

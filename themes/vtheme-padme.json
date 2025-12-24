@@ -1,0 +1,43 @@
+{
+    "name": "VTheme Padmé Rose",
+    "type": "light",
+    "colors": {
+        "editor.background": "#fdf8f9",
+        "editor.foreground": "#503035",
+        "sideBar.background": "#fbf2f4",
+        "sideBar.foreground": "#503035",
+        "activityBar.background": "#e8b0bb",
+        "activityBar.foreground": "#503035",
+        "activityBarBadge.background": "#d15c75",
+        "activityBarBadge.foreground": "#ffffff",
+        "statusBar.background": "#d15c75",
+        "statusBar.foreground": "#ffffff",
+        "button.background": "#d15c75",
+        "button.foreground": "#ffffff",
+        "input.background": "#ffffff",
+        "input.border": "#e8b0bb",
+        "editorCursor.foreground": "#d15c75",
+        "tab.activeBorder": "#d15c75"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#a0707a",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#d15c75"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#b56070"
+            }
+        }
+    ]
+}

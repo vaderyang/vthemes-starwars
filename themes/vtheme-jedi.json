@@ -1,0 +1,49 @@
+{
+    "name": "VTheme Jedi Light",
+    "type": "light",
+    "colors": {
+        "editor.background": "#fdfbf7",
+        "editor.foreground": "#5d554a",
+        "sideBar.background": "#f2efe9",
+        "sideBar.foreground": "#5d554a",
+        "activityBar.background": "#d6cbb1",
+        "activityBar.foreground": "#5d554a",
+        "activityBarBadge.background": "#8e7f5e",
+        "activityBarBadge.foreground": "#ffffff",
+        "statusBar.background": "#8e7f5e",
+        "statusBar.foreground": "#ffffff",
+        "button.background": "#8e7f5e",
+        "button.foreground": "#ffffff",
+        "input.background": "#ffffff",
+        "input.border": "#d6cbb1",
+        "editorCursor.foreground": "#8e7f5e",
+        "tab.activeBorder": "#8e7f5e"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#a49881",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#8e7f5e"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#a6956e"
+            }
+        },
+        {
+            "scope": "function",
+            "settings": {
+                "foreground": "#5d554a"
+            }
+        }
+    ]
+}

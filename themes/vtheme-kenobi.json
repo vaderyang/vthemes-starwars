@@ -1,0 +1,49 @@
+{
+    "name": "VTheme Kenobi Blue",
+    "type": "light",
+    "colors": {
+        "editor.background": "#f5f6fa",
+        "editor.foreground": "#2f3640",
+        "sideBar.background": "#e6e9f0",
+        "sideBar.foreground": "#2f3640",
+        "activityBar.background": "#3f51b5",
+        "activityBar.foreground": "#ffffff",
+        "activityBarBadge.background": "#ff9800",
+        "activityBarBadge.foreground": "#ffffff",
+        "statusBar.background": "#3f51b5",
+        "statusBar.foreground": "#ffffff",
+        "button.background": "#3f51b5",
+        "button.foreground": "#ffffff",
+        "input.background": "#ffffff",
+        "input.border": "#c5cae9",
+        "editorCursor.foreground": "#3f51b5",
+        "tab.activeBorder": "#3f51b5"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#78909c"
+            }
+        },
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#3f51b5",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#1565c0"
+            }
+        },
+        {
+            "scope": "function",
+            "settings": {
+                "foreground": "#0277bd"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "VTheme Empire Charcoal",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#2c2c30",
+        "editor.foreground": "#f0f0f2",
+        "sideBar.background": "#252529",
+        "sideBar.foreground": "#f0f0f2",
+        "activityBar.background": "#1e1e21",
+        "activityBarBadge.background": "#BC1E22",
+        "activityBarBadge.foreground": "#ffffff",
+        "statusBar.background": "#404045",
+        "statusBar.foreground": "#ffffff",
+        "button.background": "#BC1E22",
+        "button.foreground": "#ffffff",
+        "button.hoverBackground": "#9a181b",
+        "input.background": "#35353a",
+        "input.foreground": "#f0f0f2",
+        "input.border": "#BC1E22",
+        "editorCursor.foreground": "#BC1E22",
+        "tab.activeBorder": "#BC1E22"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#808085",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#BC1E22",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#d0d5de"
+            }
+        },
+        {
+            "scope": "function",
+            "settings": {
+                "foreground": "#f0f0f2"
+            }
+        }
+    ]
+}
