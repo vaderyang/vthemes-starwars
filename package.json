@@ -2,7 +2,7 @@
     "name": "vtheme-starwars",
     "displayName": "VSCode Theme Pack inspired by Star Wars",
     "description": "Star Wars inspired themes for VS Code: Mando, Empire, Clone, Sith, Jedi, and more.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "vaderyang",
     "engines": {
         "vscode": "^1.60.0"
