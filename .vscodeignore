@@ -1,0 +1,27 @@
+# Files and directories to exclude from the VSIX package
+
+# Git files
+.git
+.github
+.gitignore
+.gitattributes
+
+# macOS
+.DS_Store
+
+# Development files
+*.vsix
+.vscode-test/
+.vscode-test-web/
+
+# CI/CD
+.github/
+
+# Documentation images (these are large, users can view them on GitHub)
+images/
+
+# Only include what's necessary:
+# - package.json
+# - README.md
+# - LICENSE
+# - themes/
