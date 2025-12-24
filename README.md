@@ -56,6 +56,8 @@ From the metallic precision of **Mando Steel** to the deep, velvet darkness of *
 4.  Click **Install**.
 5.  Press `Cmd+K` then `Cmd+T` to select your theme!
 
+![Installation Guide](./images/screenshots%20to%20install.png)
+
 ## License
 
 MIT
