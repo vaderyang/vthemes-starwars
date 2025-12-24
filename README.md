@@ -1,6 +1,6 @@
 # VTheme Star Wars Pack
 
-**VTheme Star Wars Pack** brings the aesthetics of the MeetingMind application to your VS Code editor. This collection features 9 professionally crafted themes inspired by the iconic characters and factions of the Star Wars universe.
+**VTheme Star Wars Pack** brings the aesthetics of the MeetingMind application to your VS Code editor. This collection features 10 professionally crafted themes inspired by the iconic characters and factions of the Star Wars universe.
 
 From the metallic precision of **Mando Steel** to the deep, velvet darkness of **Empire Gray**, there is a theme for every ally in the galaxy.
 
