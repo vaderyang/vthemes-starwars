@@ -24,7 +24,15 @@
         "tab.inactiveBackground": "#444952",
         "list.activeSelectionBackground": "#626873",
         "list.activeSelectionForeground": "#ffffff",
-        "list.hoverBackground": "#5a5f69"
+        "list.hoverBackground": "#5a5f69",
+        "textPreformat.foreground": "#f0f0f0",
+        "textPreformat.background": "#626873",
+        "textBlockQuote.background": "#5a5f69",
+        "textBlockQuote.border": "#e74c3c",
+        "textLink.foreground": "#f39c12",
+        "textLink.activeForeground": "#f5b041",
+        "descriptionForeground": "#e0e0e0",
+        "foreground": "#e0e0e0"
     },
     "tokenColors": [
         {

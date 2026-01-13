@@ -18,7 +18,15 @@
         "input.foreground": "#f0f0f2",
         "input.border": "#BC1E22",
         "editorCursor.foreground": "#BC1E22",
-        "tab.activeBorder": "#BC1E22"
+        "tab.activeBorder": "#BC1E22",
+        "textPreformat.foreground": "#e8e8ea",
+        "textPreformat.background": "#35353a",
+        "textBlockQuote.background": "#35353a",
+        "textBlockQuote.border": "#BC1E22",
+        "textLink.foreground": "#e06060",
+        "textLink.activeForeground": "#ff8080",
+        "descriptionForeground": "#f0f0f2",
+        "foreground": "#f0f0f2"
     },
     "tokenColors": [
         {
